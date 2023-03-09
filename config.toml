@@ -95,7 +95,7 @@ summaryLength = 70  # number of words for article summaries
 
     # WARNING: deprecated! Use [[menu.icons]] instead, look below
     # links = [
-    #     ["GitLab", "https://gitlab.com/gabmus"],
+    #     ["GitLab", "https://gitlab.com/manosundarmanivel"],
     #     ["GNOME", "https://gitlab.gnome.org/gabmus"],
     #     ["YouTube", "https://youtube.com/TechPillsNet"]
     # ]
@@ -136,7 +136,7 @@ summaryLength = 70  # number of words for article summaries
     [[menu.icons]]
         identifier = "gitlab"
         name = "GitLab"
-        url = "https://gitlab.com/gabmus"
+        url = "https://gitlab.com/manosundarmanivel"
         weight = 10
     [[menu.icons]]
         identifier = "gnome"
