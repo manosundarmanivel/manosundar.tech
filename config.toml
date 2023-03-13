@@ -27,12 +27,20 @@ url = "https://github.com/manosundarmanivel"
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/athulcajay/"
+url = "https://twitter.com/manivel_mano"
 
 [[params.social]]
 name = "GitLab"
 icon = "gitlab"
-url = "https://gitlab.com/athul/"
+url = "https://gitlab.com/manosundarmanivel"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/manosundarmanivel/"
+
+
+
 
 # Main menu Items
 
