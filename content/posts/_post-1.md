@@ -1,5 +1,5 @@
 ---
-title: "An Intro to Git and GitHub for Beginners (Tutorial)"
+title: "An Intro to Git and GitHub for Beginners "
 date: 2023-03-13T07:44:42+05:30
 description: A Basic Introduction to Git and GitHub
 tags: [Git , GitHub]
