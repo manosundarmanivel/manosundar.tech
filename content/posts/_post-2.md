@@ -3,7 +3,10 @@ title: "The Mystery of IPv5: Why it Never Became the Internet Protocol Successor
 date: 2023-03-26T08:07:10+05:30
 description: This blog explores the reasons why IPv5 was never adopted as the successor to IPv4. It discusses the history of IP protocols, the development of IPv5 as an experimental protocol, and the reasons why IPv6 was chosen as the standard protocol for internet communications. The blog concludes that IPv5 was never intended to be widely used, and that starting from scratch with a new design allowed IPv6 to address the limitations of IPv4 more effectively and become the preferred protocol for internet communications.
 tags: [IPv5]
+
 ---
+
+
 When you browse the internet, you probably use the Internet Protocol (IP) to connect to websites and other online services. The most commonly used version of IP is IPv4, which has been in use since the early days of the internet. But have you ever wondered why there is no IPv5 protocol, and why it was never adopted as the successor to IPv4?
 
 IPv5 was proposed as an experimental version of the internet protocol in the 1990s, but it never became widely adopted. The reason for this is that IPv6 was developed as a successor to IPv4, and it addressed many of the limitations and security concerns that IPv4 had.
