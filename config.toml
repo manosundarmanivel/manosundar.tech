@@ -63,3 +63,8 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
+
+[params]
+  head_scripts = """
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8565571609329981" crossorigin="anonymous"></script>
+  """
